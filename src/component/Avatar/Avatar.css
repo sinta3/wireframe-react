@@ -1,0 +1,9 @@
+.ava {
+    width: 100px;
+    margin: 100px auto;
+    object-fit: cover;
+}
+
+img {
+    border-radius: 100%;
+}

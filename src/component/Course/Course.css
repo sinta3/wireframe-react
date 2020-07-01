@@ -1,0 +1,15 @@
+.card {
+    width: 350px;
+
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+}
+
+.img {
+    margin-top: 0;
+}
+
+h4 {
+    margin-top: 0;
+}
